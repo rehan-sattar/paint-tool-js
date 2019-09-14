@@ -2,8 +2,14 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
 }
 
+.header {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
 .container {
   height: 100vh;
   min-width: 100wh;
